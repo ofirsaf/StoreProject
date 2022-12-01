@@ -1,4 +1,3 @@
-data connection string: mongodb+srv://MosheDuek:Aa123456@myapi.9nkqd.mongodb.net/MongoApi?retryWrites=true&w=majority
 
 # The Env file like so:
 
